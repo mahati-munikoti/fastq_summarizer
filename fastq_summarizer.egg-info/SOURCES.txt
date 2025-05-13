@@ -1,0 +1,14 @@
+setup.py
+fastq_summarizer/__init__.py
+fastq_summarizer/main.py
+fastq_summarizer/overrepresented.py
+fastq_summarizer/per_base_quality.py
+fastq_summarizer/summary.py
+fastq_summarizer/utils.py
+fastq_summarizer/visuals.py
+fastq_summarizer.egg-info/PKG-INFO
+fastq_summarizer.egg-info/SOURCES.txt
+fastq_summarizer.egg-info/dependency_links.txt
+fastq_summarizer.egg-info/entry_points.txt
+fastq_summarizer.egg-info/requires.txt
+fastq_summarizer.egg-info/top_level.txt

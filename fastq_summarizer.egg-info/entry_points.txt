@@ -1,0 +1,2 @@
+[console_scripts]
+fastq-summarizer = fastq_summarizer.main:main
